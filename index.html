@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <ul class="post-list">
+    {% for p in site.pages %}
+    {% unless p.title %}
+      {% continue %}
+    {% endunless %}
+    
+      <li>
+        <h2>
+          <a class="post-link" href="{{ p.url | prepend: site.baseurl }}">{{ p.title | escape }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>
