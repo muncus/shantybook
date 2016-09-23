@@ -1,6 +1,6 @@
 ---
 title: Don't forget your old shipmate
-ytlink: https://nope.com
+ytlink: https://www.youtube.com/watch?v=wY1fUAPYH3M
 ---
 
 {::options hard_wrap="true" /}
