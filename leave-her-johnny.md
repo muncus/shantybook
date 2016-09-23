@@ -1,6 +1,6 @@
 ---
 title: Leave Her Johnny
-ytlink: https://www.youtube.com/watch?v=Z2_A3qY58qo
+ytlink: https://www.youtube.com/watch?v=4fVQwzv5Qfc
 ---
 
 {::options hard_wrap="true" /}
