@@ -5,7 +5,8 @@ layout: default
 <div class="home">
 
   <ul class="post-list">
-    {% for p in site.pages %}
+    {% assign sorted_pages = site.pages | sort: 'title' %}
+    {% for p in sorted_pages %}
     {% unless p.title %}
       {% continue %}
     {% endunless %}
