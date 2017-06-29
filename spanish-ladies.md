@@ -14,13 +14,11 @@ farewell and adieu to you ladies of spain
 for we've received orders we're to sail for old england
 and we may never see you fair ladies again
 
-(chorus)
+{: .chorus}
 We'll rant and we'll roar, like true british sailors
 we'll rant and we'll roar, across the salt sea
-
 until we strike soundings in the channel of old england
 from Ushant to Scilly is thirty five leagues.
-(end chorus)
 
 We hove our ship to, with the wind from sou'west boys
 we hove our ship to, for to take soundings clear

@@ -15,6 +15,7 @@ wey hey roll an' go
 our boots and our clothes boys are all in the pawn,
 to be rollicking randy dandy oh.
 
+{: .chorus}
 Heave a pall and heave away
 wey hey roll an' go
 the anchor's on board and the cables are stored

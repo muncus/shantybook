@@ -13,7 +13,7 @@ let the waters roar jack
 safe and sound at home again
 let the waters roar jack
 
-(chorus)
+{: .chorus}
 Long we've tossed on the rolling main
 now we're safe ashore jack
 dont forget your old shipmate

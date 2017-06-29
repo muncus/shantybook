@@ -15,7 +15,7 @@ since i first came ashore with me plunder
 i've seen centipedes and snakes and my head is full of aches
 and i have to walk the path to way up yonder
 
-(chorus)
+{: .chorus}
 Its all for me grog, me jolly jolly grog
 its all gone for beer and tobacco
 well, i spent all me tin on the lasses drinking gin

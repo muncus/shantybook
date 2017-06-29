@@ -14,7 +14,7 @@ and I've spent all my money on whiskey and beer
 now i've return with gold in great store,
 and never will play the wild rover no more
 
-(chorus)
+{: .chorus}
 And it's no, nay, never! . . . .
 no nay never no-more
 will i play the wild rover

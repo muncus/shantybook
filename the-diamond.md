@@ -20,6 +20,7 @@ to sail the ocean wide
 where the sun it never sets, me boys
 nor darkness dims the sky
 
+{: .chorus}
 And its cheer up me lads
 let your hearts never fail
 while the bonny ship the Diamond

@@ -11,3 +11,6 @@ ytlink: https://www.youtube.com/watch?v=Z2_A3qY58qo
 
 
 words go here.
+
+{: .chorus}
+here goes a chorus.

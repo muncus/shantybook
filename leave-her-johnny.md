@@ -16,7 +16,7 @@ Leave her, Johnny, Leave her
 The seas ran high and the winds did blow
 And its time for us to leave her.
 
-(chorus)
+{: .chorus}
 Leave her Johnny Leave her
 Oh, leave her Johnny leave her
 for the voyage is done, and the winds dont blow
