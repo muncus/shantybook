@@ -20,7 +20,7 @@ email: marc@marcdougherty.com
 description: > # this means to ignore newlines until "baseurl:"
   Sea Shanty lyrics.
 baseurl: "/shantybook" # the subpath of your site, e.g. /blog
-url: "http://muncus.github.io" # the base hostname & protocol for your site
+url: "https://muncus.github.io" # the base hostname & protocol for your site
 
 defaults:
   -
