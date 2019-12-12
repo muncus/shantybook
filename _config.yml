@@ -26,7 +26,7 @@ defaults:
   -
     scope:
       path: "" #Empty scope applies to all.
-    values: 
+    values:
       layout: "default"
 
 
@@ -34,5 +34,25 @@ defaults:
 markdown: kramdown
 kramdown:
   input: GFM
+  hard_wrap: true
 
 theme: minima
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - index.html
+
+minima:
+  date_format: "%Y-%m-%d"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - TODO
+
