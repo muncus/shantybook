@@ -10,7 +10,7 @@ may also find it useful.
 I've done my best to find sources for the music, where applicable. Pull Requests
 are welcome if you'd like to add music or lyrics.
 
-* [Lyrics](/lyrics) is a listing of all song lyrics available here
-* [Music](/music) contains sheet music, rendered from ABC notation.
+* [Lyrics]({{site.baseurl}}{% link _lyrics/index.html %}) is a listing of all song lyrics available here
+* [Music]({{site.baseurl}}{% link _music/index.html %}) contains sheet music, rendered from ABC notation.
 
 The music is rendered using [abcjs](http://abcjs.net).
