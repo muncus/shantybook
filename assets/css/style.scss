@@ -1,4 +1,10 @@
 ---
 ---
 
+// ABC notation is rendered by js in a different location on the page, so
+// there's no need to show it as text.
+div#abc-notation {
+  display: none;
+}
+
 @import "{{ site.theme }}";
