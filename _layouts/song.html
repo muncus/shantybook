@@ -4,7 +4,6 @@ layout: default
 <script type="application/javascript" src="{{ "assets/js/abcjs_basic_5.10.3-min.js" | relative_url }}" >
 </script>
 
-
 <article class="post">
 
   <header class="post-header">
@@ -22,6 +21,6 @@ layout: default
 <script type="text/javascript">
   var abctext = document.getElementById("abc-notation");
   if(abctext != null){
-    ABCJS.renderAbc("abccontent", abctext.textContent);
+    ABCJS.renderAbc("abccontent", abctext.textContent, { viewportHorizontal: true, scrollHorizontal: "true", responsive: 'resize'});
   }
 </script>
